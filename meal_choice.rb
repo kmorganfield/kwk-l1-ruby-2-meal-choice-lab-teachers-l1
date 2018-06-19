@@ -12,7 +12,7 @@ def lunch(food="grilled cheese")
   "#{food} hits the spot in the afternoon!"
 end
 
-def lunch(food="salmon")
+def dinner(food="salmon")
   "Time for dinner?  Why not have #{food}?"
 end
 
